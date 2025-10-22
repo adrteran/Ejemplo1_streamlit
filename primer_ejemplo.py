@@ -25,7 +25,3 @@ Términos y condiciones:
 - La presente boleta no es transferible
 - No hay modificaciones de fechas y montos
 """)
-
-Para que un proyecto termine estando en la nube (web) lo primero que tenemos que hacer es subirlo a github 
-
-Para esto 
